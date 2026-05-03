@@ -1,16 +1,18 @@
-## Hi there 👋
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<!--
-**chelfansea-engineer/chelfansea-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shota Ichikawa, people call me shota.
 
-Here are some ideas to get you started:
+## ⚡ Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![agentfromework](https://img.shields.io/badge/-agentframework-black?style=flat-square&logo=agentframework)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=chelfansea-engineer.skill-footprints)

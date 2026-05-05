@@ -1,7 +1,7 @@
 ## Glad to have you!
 
 I am Shota Ichikawa, people call me shota.
-I am Software Engineer.
+Software Engineer.
 
 ## ⚡ Technologies
 ### Frontend
@@ -31,3 +31,6 @@ I am Software Engineer.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=chelfansea-engineer.skill-footprints)
+
+### My Projects
+[skill-footprints](https://github.com/chelfansea-engineer/skill-footprints)
